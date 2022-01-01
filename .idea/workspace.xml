@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a8681fa-0177-496c-9908-3ff19e0630e9" name="Default Changelist" comment="" />
+    <list default="true" id="2a8681fa-0177-496c-9908-3ff19e0630e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/packages/button/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/button/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/form/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/form/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/formItem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/formItem/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/input/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/input/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/steps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/steps/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
