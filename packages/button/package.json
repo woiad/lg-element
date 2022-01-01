@@ -1,5 +1,5 @@
 {
-  "name": "lg-button",
+  "name": "lg-button-woiad",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "85e2c801d13f38d20d45fba6503b586fbdd84b51"
+  "gitHead": "be163b0abb4979e44e3bd39ebb1cda4a30c35ce4"
 }
