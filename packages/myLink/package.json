@@ -1,15 +1,15 @@
 {
-  "name":"lg-myLink-woaid",
-  "version":"0.0.4",
-  "description":"lg-myLink-woiad component",
-  "main":"dist/cjs/index.js",
-  "module":"dist/es/index.js",
+  "name": "lg-myLink-woaid",
+  "version": "0.0.5",
+  "description": "lg-myLink-woiad component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "scripts": {
-    "test":"echo \"Error: no test specified\" && exit 1",
-    "del":"rimraf dist"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
   },
-  "keywords":[],
-  "author":"",
-  "license":"ISC",
-  "gitHead":"0bb2425cca499360edb21db19bfb6001735960c1"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "0bb2425cca499360edb21db19bfb6001735960c1"
 }
