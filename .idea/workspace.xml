@@ -2,36 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8681fa-0177-496c-9908-3ff19e0630e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/button/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/input/__tests__/input.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/__tests__/myLink.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/src/myLink.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/myLink/stories/myLink.stories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/README.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/__tests__/component.test.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/package.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/src/component.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plop-template/component/stories/component.stories.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plopfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/button/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/button/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/button/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/form/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/form/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/formItem/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/formItem/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/input/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/input/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/myLink/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/myLink/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/steps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/steps/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +97,7 @@
       <updated>1641018235516</updated>
       <workItem from="1641018237275" duration="7119000" />
       <workItem from="1641090079708" duration="9495000" />
-      <workItem from="1641108382752" duration="2710000" />
+      <workItem from="1641108382752" duration="3295000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1641027051332</created>
@@ -143,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641027836821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat:jest 单元测试组件;plop 动态生成组件模板">
+      <created>1641111174783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641111174783</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat:发布">
+      <created>1641111601966</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641111601966</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix" />
     <MESSAGE value="fix:发布包名修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix:发布包名修改" />
+    <MESSAGE value="feat:jest 单元测试组件;plop 动态生成组件模板" />
+    <MESSAGE value="feat:发布" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:发布" />
   </component>
 </project>

@@ -1,5 +1,5 @@
 {
-  "name": "lg-myLink-woaid",
+  "name": "lg-link-woaid",
   "version": "0.0.5",
   "description": "lg-myLink-woiad component",
   "main": "dist/cjs/index.js",
@@ -11,5 +11,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "0bb2425cca499360edb21db19bfb6001735960c1"
+  "gitHead": "fd08c43d6bb5af09d2e0378d81f234457eaf5c7c"
 }
