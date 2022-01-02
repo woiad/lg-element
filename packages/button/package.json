@@ -2,9 +2,12 @@
   "name": "lg-button-woiad",
   "version": "0.0.3",
   "description": "",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "del": "rimraf dist"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +15,10 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "be163b0abb4979e44e3bd39ebb1cda4a30c35ce4"
+  "gitHead": "be163b0abb4979e44e3bd39ebb1cda4a30c35ce4",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^13.1.2",
+    "rollup-plugin-postcss": "^4.0.2"
+  }
 }

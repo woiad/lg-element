@@ -1,0 +1,14 @@
+import Lg{{ properCase name }} from '../'
+
+export default {
+title: 'Example/Lg{{ properCase name }}',
+component: Lg{{ properCase name }}
+}
+
+const Template = (args, { argTypes }) => ({
+props: Object.keys(argTypes),
+components: { Lg{{ properCase name }} },
+template: '<Lg{{ properCase name }} v-bind="$props" />',
+})
+
+export const Text = Template.bind({})
